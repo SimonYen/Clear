@@ -1,5 +1,5 @@
 server:
-  port: 6633
+  port: 10000
   host: "0.0.0.0"
   mode: "release" # 可选值: debug, release
 
